@@ -1,0 +1,20 @@
+soft:
+  title: Soft skills
+  description: Savoir-être
+  details:
+    - Bon sens du service public 
+    - Gestion des priorités
+    - Travail en équipe
+    - Capacité de synthèse
+    - Clarté
+    - Créativité
+    - Respect des échéances
+programming:
+  title: Programmation
+  description: R, Python, SQL, Git (Github/Gitlab), Docker, Kubernetes, Bash, Shell
+markup:
+  title: Balisage
+  description: Markdown, Typst, Quarto, LaTeX
+lang:
+  title: Langages parlés
+  description: Anglais, Allemand (notions), Malgache

@@ -1,0 +1,60 @@
+---
+title: "Nathan Randriamanana's CV" 
+profile-photo: "images/pp.jpg"
+author:
+  firstname: Nathan
+  lastname: Randriamanana
+  address: "Meudon, 92190, France"
+  position: "Administrateur de répertoire - Data Scientist - Statisticien | né le 28/07/1999"
+  contacts:
+    - icon: fa mobile
+      text: +33 6 24 05 82 28
+      url: "mailto:nathan.randriamanana@insee.fr"
+    - icon: fa envelope
+      text: nathan.randriamanana@insee.fr
+      url: "mailto:nathan.randriamanana@insee.fr"
+    - icon: fa brands github
+      text: GitHub
+      url: https://github.com/TheAIWizard
+    - icon: fa brands linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/nathan-randriamanana-69a1721b3/
+format: awesomecv-typst
+brand:
+  typography: 
+    fonts:
+      - family: Roboto
+        source: google
+        weight: [100, 400, 700]
+      - family: Source Sans 3
+        source: google
+        weight: [100, 400, 700]
+        style: [normal, italic]
+    base: Source Sans 3
+  color:
+    primary: "#2e7d32"
+  defaults: 
+    awesomecv-typst:
+      font-header: Roboto
+---
+
+
+## Parcours professionnel
+
+{{< yaml assets/yml/work.yml >}}
+
+## Expertise et Engagements
+
+{{< yaml assets/yml/award.yml >}}
+
+## Competences
+
+{{< yaml assets/yml/skill.yml >}}
+
+## Formation
+
+{{< yaml assets/yml/education.yml >}}
+
+## Presentations
+
+{{< yaml assets/yml/publication.yml >}}

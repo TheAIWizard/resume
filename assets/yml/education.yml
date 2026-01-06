@@ -1,0 +1,15 @@
+master:
+  title: Master Science des Données pour la Décision Publique
+  location: Bruz, France
+  date: 2022 - 2023
+  description: Majeure Méthodologie de la statistique publique (MSP), labellisé EMOS (European Master in Official Statistics)
+cpge:
+  title: CPGE (classe préparatoire aux grandes écoles) scientifique
+  location: Reims, France
+  date: 2017 - 2020
+  description: Filière MPSI-MP (mathématiques, physique et sciences de l'ingénieur)
+bac:
+  title: Baccalauréat général scientifique (Mention Très Bien)
+  location: Pontault-Combault, France
+  date: 2014 - 2017
+  description: Option Sciences de l'Ingénieur, Spécialité ISN (Informatique et Sciences du Numérique), Section européenne Anglais

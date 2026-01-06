@@ -1,0 +1,12 @@
+jms-2025:
+  title: Contributions aux Journées de méthodologie statistique de l’Insee 
+  location: Jussieu
+  date: Novembre 2025
+  description: 2 soumissions sur le sujet de la codification dont
+  details:
+    - l'utilisation de LLM pour entraîner un modèle en nouvelle nomenclature
+    - la présentation de la nouvelle librairie TorchTextClassifiers
+presentations_INS:
+  title: Diverses présentations auprès de divers interlocuteurs sur le sujet de la codification
+  location: webinaire en ligne
+  description: Présentations et échanges notamment auprès de l'Inserm, Statistics Netherlands, Statec Luxembourg, EuroStat, l'UNSD et le SSP hub, le réseau des data scientists de l'Insee

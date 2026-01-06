@@ -1,0 +1,32 @@
+ensea_reproductibilite:
+  title: Formation des enseignants de l’Ensea au MLops
+  location: Abidjan, Côte d'Ivoire
+  date: Octobre 2025
+  description: Formation GENES - Projet PHAS de la Banque Mondiale
+datafid2_gov: 
+  title: Participation à l'encadrement de la seconde édition de Datafid
+  location: Abidjan, Côte d'Ivoire
+  date: Mars 2025
+  description: Défi Datafid - Projet Data Governance in Africa - Expertise France, financé par l'UE
+datafid_expertisefrance: 
+  title: Encadrement d'un hackaton sur les thématiques fiscales et douanières
+  location: Abidjan, Côte d’Ivoire
+  date: Juin 2023
+  description: Défi Datafid - Projet Datafid - Expertise France, financé par la DG Trésor
+10pourcent_saison2:
+  title: Participation au programme 10% (Saison 2)
+  location: Paris
+  date: Septembre 2023 - Novembre 2023
+  description: Projet « Transformers, une IA open-source pour l’analyse de texte par les administrations ».
+dataiku_challenge:
+   title: Dataiku Challenge
+   location: Ensai, Bruz
+   date: Février 2022
+   description: Mise au point d'une application pour extraire les insights (résumé, analyse des sentiments, ...) d'un article de journal en utilisant la plateforme Dataiku
+techsprint_banque_de_france:
+  title: Tech Sprint de l'ACPR
+  location: Banque de France, Paris
+  date: Juillet 2021
+  description: Hackathon organisé par le Pôle Fintech-Innovation de l'Autorité de contrôle prudentiel et de résolution (ACPR) sur l'explicabilité des algorithmes de risque de crédit en "boîte noire".
+
+
