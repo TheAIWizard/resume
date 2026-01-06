@@ -4,14 +4,14 @@ sirene_rias:
   date: Début Septembre 2023
   description: Direction des statistiques d'entreprises - DG Insee
   details: 
-    - Pilotage de l'intégration de la NAF 2025 en flux pour la double codification dans l'application Sirene 4 de la conception des scénarios à la mise en œuvre agile avec un MVP livré avant échéance
+    - Pilotage de l'intégration de la NAF 2025 en flux pour la double codification de l'APE dans l'application Sirene 4 de la conception des scénarios à la mise en œuvre agile avec un MVP livré avant échéance
     - Réentraînement des modèles de Machine Learning pour la codification de l'APE en double nomenclature intégrant la NAF actuelle et la NAF 2025
     - Conduite de deux campagnes d'annotations majeures pour les réentraînements des modèles de codification incluant le déploiement technique de la plateforme et l'animation du réseau d'experts métier
     - Modernisation de l'architecture de codification via une approche MLOps garantissant la reproductibilité et la maintenabilité des modèles
     - Référent métier et appui transversal pour la gestion des incidents de production incluant la résolution des cas complexes au répertoire et le support aux gestionnaires utilisateurs
-    - interface entre les équipes métier et informatique via la rédaction de spécifications fonctionnelles et le suivi de leur implémentation par la MOE
+    - Interface entre les équipes métier et informatique via la rédaction de spécifications fonctionnelles et le suivi de leur implémentation par la MOE
     - Conception d'outils de pilotage et d'explicabilité incluant des tableaux de bord pour le suivi du taux d'automatisation et des dispositifs d'aide à la décision en self-service
-    - Contribution active aux groupes de veille technologique dédiés aux innovations en intelligence artificielle
+    - Contribution aux groupes de veille technologique dédiés aux innovations en intelligence artificielle
     - Animation d'ateliers internes sur les bonnes pratiques de développement en self pour favoriser l'autonomie du métier
 ds_hub_flanders:
   title: Stagiaire Data Scientist (fin d'étude)
