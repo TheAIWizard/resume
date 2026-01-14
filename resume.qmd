@@ -43,6 +43,10 @@ brand:
 
 {{< yaml assets/yml/work.yml >}}
 
+## Communications
+
+{{< yaml assets/yml/publication.yml >}}
+
 ## Expertise et Engagements
 
 {{< yaml assets/yml/award.yml >}}
@@ -55,6 +59,4 @@ brand:
 
 {{< yaml assets/yml/education.yml >}}
 
-## Communications
 
-{{< yaml assets/yml/publication.yml >}}
