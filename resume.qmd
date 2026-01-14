@@ -4,8 +4,7 @@ profile-photo: "images/pp.jpg"
 author:
   firstname: Nathan
   lastname: Randriamanana
-  address: "Meudon, 92190, France"
-  position: "Administrateur de répertoire - Data Scientist - Statisticien | né le 28/07/1999"
+  position: "Administrateur de répertoire - Data Scientist - Statisticien"
   contacts:
     - icon: fa mobile
       text: +33 6 24 05 82 28
