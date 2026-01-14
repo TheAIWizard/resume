@@ -4,7 +4,7 @@ sirene_rias:
   date: Début Septembre 2023
   description: Direction des statistiques d'entreprises - DG Insee
   details: 
-    - Pilotage de l'intégration de la NAF 2025 en flux pour la double codification de l'APE dans l'application Sirene 4 de la conception des scénarios à la mise en œuvre agile avec un MVP livré avant échéance
+    - Pilotage de l'intégration de la NAF 2025 dans l'application Sirene 4 en flux pour la double codification de l'APE de la conception des scénarios à la mise en œuvre agile avec un MVP livré avant échéance
     - Réentraînement des modèles de Machine Learning pour la codification de l'APE en double nomenclature intégrant la NAF actuelle et la NAF 2025
     - Conduite de deux campagnes d'annotations majeures pour les réentraînements des modèles de codification incluant le déploiement technique de la plateforme et l'animation du réseau d'experts métier
     - Modernisation de l'architecture de codification via une approche MLOps garantissant la reproductibilité et la maintenabilité des modèles
