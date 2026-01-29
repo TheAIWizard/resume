@@ -1,0 +1,42 @@
+sirene_rias:
+  title: Full-Stack Data Scientist 
+  location: Montrouge
+  date: Early September 2023
+  description: Business Statistics Directorate – INSEE
+  details: 
+    - Served as the central integration point between business teams, innovation lab, IT architects, data science, DevOps, and production support for the design, evolution, and operation of a production-grade ML application
+    - Delivered end-to-end ML workflows for APE classification, from data preparation to deployment via MLOps, including monitoring and decision-support tools for model reliability and traceability
+    - Trained, retrained, and validated machine learning models supporting both NAF rev 2 and NAF 2025 classifications. Defined ML APIs specifications and their integration into the core Sirene application, coordinating implementation with IT delivery teams
+    - Led the functional design and delivery of NAF 2025 integration into Sirene 4, enabling dual APE coding, with an MVP released ahead of schedule using an agile approach
+    - Coordinated large-scale data annotation campaigns, including tooling setup and facilitation of expert domain networks
+    - Contributed to production operations, including incident resolution and handling of complex business registry cases. Defined functional, system, and data specifications to drive the evolution, maintenance, and operational integrity of SIRENE, the national business register
+    - Developed dashboards and decision-support tools for business users, enabling self-service access to insights
+    - Contributed to AI technology watch and internal best-practice workshops
+ds_hub_flanders:
+  title: Data Scientist Intern 
+  location: Brussels, Belgium
+  date: March 2023 - August 2023
+  description: Data Science Hub – Statistics Flanders
+  details:
+    - Applied NLP techniques to contextualize public sentiment indicators derived from Twitter/X data
+    - Performed time series analysis to identify seasonality patterns in population satisfaction
+    - Used topic modeling approaches to categorize daily life events experienced by the population
+    - Explored statistical indicators to identify events contributing to satisfaction peaks
+
+devops_diit:
+  title: DevOps Intern
+  location: Montrouge
+  date: June 2022 - July 2022
+  description: Technical Instruction and Innovation Division – INSEE
+  details: 
+    - Designed and delivered training materials for the SSP Cloud platform (Onyxia instance hosted by INSEE)
+    - Developed skills in cloud technologies, open-source ecosystems, and data platforms
+
+ds_ssmsi:
+  title: Data Scientist Intern – Cybercrime
+  location: Bercy
+  date: May 2021 - July 2021
+  description: Statistical Service of the French Ministry of the Interior (SSMSI)
+  details:
+    - Analyzed emerging cybercrime patterns and modus operandi
+    - Produced statistical analyses on crime and cybercrime using machine learning and NLP

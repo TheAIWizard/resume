@@ -1,0 +1,9 @@
+programming:
+  title: Programming
+  description: R, Python, SQL, Git (Github/Gitlab), Docker, Kubernetes, Helm, Argo, Bash, Shell
+markup:
+  title: Markup
+  description: Markdown, Typst, Quarto, LaTeX
+lang:
+  title: Languages
+  description: French (native), English (advanced), German (beginner), Malagasy (native)

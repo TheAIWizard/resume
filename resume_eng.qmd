@@ -1,0 +1,55 @@
+---
+title: "Nathan Randriamanana's CV" 
+profile-photo: "images/pp.jpg"
+author:
+  firstname: Nathan
+  lastname: Randriamanana
+  position: "Data Scientist - Statistician"
+  contacts:
+    - icon: fa envelope
+      text: nathan.randriamanana@insee.fr
+      url: "mailto:nathan.randriamanana@insee.fr"
+    - icon: fa brands linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/nathan-randriamanana-69a1721b3/
+format: awesomecv-typst
+brand:
+  typography: 
+    fonts:
+      - family: Roboto
+        source: google
+        weight: [100, 400, 700]
+      - family: Source Sans 3
+        source: google
+        weight: [100, 400, 700]
+        style: [normal, italic]
+    base: Source Sans 3
+  color:
+    primary: "#2e7d32"
+  defaults: 
+    awesomecv-typst:
+      font-header: Roboto
+---
+
+
+## Professional experience
+
+{{< yaml assets-eng/yml/work.yml >}}
+
+## Conferences
+
+{{< yaml assets-eng/yml/publication.yml >}}
+
+## International Expertise and Capacity-Building Missions
+
+{{< yaml assets-eng/yml/award.yml >}}
+
+## Skills
+
+{{< yaml assets-eng/yml/skill.yml >}}
+
+## Education
+
+{{< yaml assets-eng/yml/education.yml >}}
+
+

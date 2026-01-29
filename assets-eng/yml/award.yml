@@ -1,0 +1,32 @@
+ensea_reproductibilite:
+  title: ENSEA Faculty Training in MLOps
+  location: Abidjan, Ivory Coast
+  date: October 2025
+  description: GENES training program for ENSEA faculty members – PHAS Project, World Bank
+datafid2_gov: 
+  title: Supervision of the 2nd Edition of the DataFID Challenge
+  location: Abidjan, Ivory Coast
+  date: March 2025
+  description: DataFID challenge – Data Governance in Africa Project, Expertise France, funded by the European Union.
+datafid_expertisefrance: 
+  title: Hackathon Mentorship on Tax and Customs Data in Africa
+  location: Abidjan, Ivory Coast
+  date: June 2023
+  description: DataFID challenge – DataFID Project, Expertise France, funded by the French Treasury (DG Trésor)
+10pourcent_saison2:
+  title: Participation in the 10% Program (Season 2)
+  location: Paris
+  date: September 2023 - November 2023
+  description: Cross-ministerial upskilling program focused on AI and data through collaborative projects. Architected a solution using vector databases and high-performance LLM serving to enhance institutional document valorization.
+dataiku_challenge:
+   title: Dataiku Challenge
+   location: Ensai, Bruz
+   date: February 2022
+   description: Developed an application to extract insights (summarization, sentiment analysis, etc.) from news articles
+techsprint_banque_de_france:
+  title: ACPR Tech Sprint
+  location: Banque de France, Paris
+  date: July 2021
+  description: Hackathon organized by the Fintech & Innovation Unit of the French Prudential Supervision and Resolution Authority (ACPR), focused on explainability of “black-box” credit risk algorithms.
+
+

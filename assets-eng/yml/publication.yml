@@ -1,0 +1,17 @@
+cnd_2026:
+  title: Cloud Native Days France Conference 
+  location: Centquatre - Paris
+  date: February 2026
+  description: Talk presenting an MLOps return of experience at INSEEs
+jms_2025:
+  title: Contributions to the INSEE Statistical Methodology Days (JMS 2025) 
+  location: Jussieu
+  date: Novembre 2025
+  description: Two accepted submissions on coding methodologies, including
+  details:
+    - the use of LLMs to train a classifier for a new statistical nomenclature
+    - presentation of the new TorchTextClassifiers library
+webinaires_INS:
+  title: Webinars on Economic Statistics Classifications and Artificial Intelligence 
+  location: online webinars
+  description: For Inserm, Statistics Netherlands, Statec Luxembourg, Eurostat, UNSD, and the SSP hub
